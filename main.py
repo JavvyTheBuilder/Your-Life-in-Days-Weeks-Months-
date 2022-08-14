@@ -12,9 +12,9 @@ weeks_remain = years_remain * 52
 months_remain = years_remain * 12
 
 
-print(f" you have {days_remain} days, {weeks_remain} weeks, {months_remain} months, left.")
+message = (f" you have {days_remain} days, {weeks_remain} weeks, {months_remain} months, left.")
 
-
+print(message)
 
 
 
